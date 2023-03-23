@@ -1,0 +1,23 @@
+Projeto Estacionamento
+Este é um projeto de gerenciamento de estacionamento que permite adicionar carros ao estacionamento e listar todos os carros estacionados.
+
+Funcionalidades
+Adicionar carros ao estacionamento, incluindo informações sobre o proprietário, carro, placa, dados de entrada e dados de saída (opcional)
+Listar todos os carros estacionados no estacionamento
+Pesquise por carros específicos na lista usando o campo de pesquisa
+
+Tecnologias utilizadas
+HTML
+CSS
+Bootstrap
+JavaScript
+
+Como usar
+Clone o repositório em sua máquina local
+Abra o arquivo index.html em seu navegador
+Preencha o formulário com as informações do carro que deseja adicionar e clique no botão "Add Car"
+A lista de carros estacionados será exibida abaixo do formulário
+Use o campo de pesquisa para encontrar carros específicos na lista
+
+Como contribuir
+Se desejar contribuir para este projeto, sinta-se à vontade para abrir uma solicitação pull ou um problema relatando bugs ou sugerindo novas funcionalidades.
